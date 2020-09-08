@@ -1,1 +1,1 @@
-"# Jess_java_FinConsultation" 
+2019년 1학기 인공지능 수업 Jess, 재정 관리 프로그램 과제
